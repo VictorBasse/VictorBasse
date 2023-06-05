@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Victor Basse
+- 👋 Olá, meu nome é Victor Basse, tenho 21 anos e estou ingressando no mundo dev.
 - 👀 Tenho interesse na área de desenvolvimento web.
-- 🌱 Atualmente estou estudando Java, html, css e javascript. Também cursando ánalise e desenvolvimento de sistema pela Estacio.
+- 🌱 Atualmente estou estudando Html, Css, Java e Javascript. Também cursando ánalise e desenvolvimento de sistema pela Estacio.
 - 📫 Você pode entrar em contato comigo pelo linkedin: (x)
 
 <!---
